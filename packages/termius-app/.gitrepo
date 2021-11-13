@@ -6,7 +6,7 @@
 [subrepo]
 	remote = ssh://aur@aur.archlinux.org/termius-app.git
 	branch = master
-	commit = a7425aad942cf812464cfe020ac8152cb98d5669
+	commit = e793e82fe10312bc134f7b34542c12a1bf41e73b
 	method = merge
 	cmdver = 0.4.3
-	parent = 18adb0f7a0e2961d060b483d661ef9a436e2cc4d
+	parent = 20cda6180a529f6ea8b4fae329a474652dd455b0
