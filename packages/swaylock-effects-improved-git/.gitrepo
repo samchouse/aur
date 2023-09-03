@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = ssh://aur@aur.archlinux.org/swaylock-effects-improved-git.git
+	branch = master
+	commit = 6e8306cd3e80a218a63b44eaa4fe8a1c8d32eaf6
+	parent = 22efc37d8f94dffed968b063f147a7f4c1843e32
+	method = merge
+	cmdver = 0.4.6
