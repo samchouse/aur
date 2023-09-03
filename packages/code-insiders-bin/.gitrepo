@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = ssh://aur@aur.archlinux.org/code-insiders-bin.git
+	branch = master
+	commit = 2b4fd3402c95bbbca59bf2de9d4a822b66a0d397
+	parent = 7081a8748a55814b8bb1ebe1dd075749f98f7a3b
+	method = merge
+	cmdver = 0.4.6
