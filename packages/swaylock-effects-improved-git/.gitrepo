@@ -6,7 +6,7 @@
 [subrepo]
 	remote = ssh://aur@aur.archlinux.org/swaylock-effects-improved-git.git
 	branch = master
-	commit = 6e8306cd3e80a218a63b44eaa4fe8a1c8d32eaf6
-	parent = 22efc37d8f94dffed968b063f147a7f4c1843e32
+	commit = 7fb4e490ad63a5904b1228ed261167c726768d67
+	parent = 6b8efc8a9f92fc77c310cae38b639be4176e7a4e
 	method = merge
 	cmdver = 0.4.6
