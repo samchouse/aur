@@ -4,7 +4,7 @@ build PKG:
 update-srcinfo PKG:
   cd packages/{{PKG}} && makepkg --printsrcinfo > .SRCINFO
 
-gen-checksums:
+gen-checksums PKG:
   cd packages/{{PKG}} && makepkg -g
 
 publish PKG:
