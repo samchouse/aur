@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = ssh://aur@aur.archlinux.org/playit-bin.git
+	branch = master
+	commit = 5ff60c88d97d9c19afecf2c4398295f245805647
+	parent = 2c1b517036ccb4a84f237ba8038d7aed534cb2ff
+	method = merge
+	cmdver = 0.4.6
