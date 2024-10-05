@@ -6,7 +6,7 @@
 [subrepo]
 	remote = ssh://aur@aur.archlinux.org/code-insiders-bin.git
 	branch = master
-	commit = 3533f25afc53e834ed5b161ec577fa6c88d1d075
-	parent = eff5b24db8d17420fbcd954538b5301b09bd1793
+	commit = 0285d736b2a5c5a7a007559f929f37e29e49f26e
+	parent = b9d2a74038ee3d41e99fb5b9e8c5e3ae0e476fbe
 	method = merge
-	cmdver = 0.4.6
+	cmdver = 0.4.9
