@@ -18,7 +18,7 @@ pkgbase = code-insiders-bin
 	optdepends = glib2: Needed for move to trash functionality
 	optdepends = libdbusmenu-glib: Needed for KDE global menu
 	conflicts = visual-studio-code-insiders-bin
-	source = code-insiders_1.95.0_1728049707.deb::https://code.visualstudio.com/sha/download?build=insider&os=linux-deb-x64
+	source = code-insiders_1.95.0_1728454020.deb::https://code.visualstudio.com/sha/download?build=insider&os=linux-deb-x64
 	sha256sums = SKIP
 
 pkgname = code-insiders-bin
