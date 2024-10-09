@@ -6,7 +6,7 @@
 [subrepo]
 	remote = ssh://aur@aur.archlinux.org/playit-bin.git
 	branch = master
-	commit = 304193d0ccbe7931290a56de439f512e5c8a5be2
-	parent = d1b67b2386bdf8ae6d57221e4478007e8bf94703
+	commit = a7874c239bafb77ab21004a1ed7119d2a1b97c69
+	parent = 0ca74a95282439479e203227c86a08f2f9cc375c
 	method = merge
-	cmdver = 0.4.6
+	cmdver = 0.4.9
